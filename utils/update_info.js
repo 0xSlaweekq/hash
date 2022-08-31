@@ -24,9 +24,9 @@ data.forEach((item) => {
         item.creators = solanaMetadata.creators;
         item.seller_fee_basis_points = solanaMetadata.seller_fee_basis_points;
     } else {
-        // item.name = `${namePrefix} #${item.edition}`;
-        // item.description = description;
-        // item.image = `${baseUri}/${item.edition}.jpg`;
+        item.name = `${namePrefix} #${item.edition}`;
+        item.description = description;
+        item.image = `${baseUri}/1.jpg`;
         item.edition = `${item.edition}`;
     }
     fs.writeFileSync(

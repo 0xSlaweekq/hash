@@ -1,0 +1,29 @@
+{
+  "name": "Ether Wars #6",
+  "description": "Ether Wars Collection",
+  "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/1.jpg",
+  "edition": "6",
+  "type": "jedi",
+  "attributes": [
+    {
+      "trait_type": "background jedi",
+      "value": "type 7"
+    },
+    {
+      "trait_type": "clothes jedi",
+      "value": "type 2"
+    },
+    {
+      "trait_type": "head jedi",
+      "value": "type 2"
+    },
+    {
+      "trait_type": "weapon jedi",
+      "value": "yellow type 2"
+    },
+    {
+      "trait_type": "type",
+      "value": "jedi"
+    }
+  ]
+}
