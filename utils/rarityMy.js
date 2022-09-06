@@ -116,7 +116,11 @@ const newData = data.map((obj) => {
     //     }
     // }
     return {
-        ...obj,
+        name: obj.name,
+        // symbol: obj.symbol,
+        description: obj.description,
+        image: obj.image,
+        edition: obj.edition,
         type: type,
         attributes: obj.attributes,
         // score: n4.format(score),
