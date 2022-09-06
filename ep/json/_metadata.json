@@ -1,0 +1,3702 @@
+[
+  {
+    "name": "Ether Wars #1",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/1.jpg",
+    "dna": "f795dbbebbe18288e2db37c0dcf21e202823d597",
+    "edition": 1,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #2",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/2.jpg",
+    "dna": "7a30586659fb2b09112dea97a4b3f5b5a9fa053a",
+    "edition": 2,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #3",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/3.jpg",
+    "dna": "f6decd3758fec287ebba5cda110e0f50afacd3d1",
+    "edition": 3,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #4",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/4.jpg",
+    "dna": "0de3c8add53f3a8fd2c6a653dad9f3a646255121",
+    "edition": 4,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #5",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/5.jpg",
+    "dna": "a636d95ade44e435d6bcc3dce6760c03c05c2970",
+    "edition": 5,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #6",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/6.jpg",
+    "dna": "b119d800c41e41cabc6e692e441dce32864b6449",
+    "edition": 6,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #7",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/7.jpg",
+    "dna": "c5c03553e5929c87942e7bf6c24475ba3091dc90",
+    "edition": 7,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #8",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/8.jpg",
+    "dna": "2214750725e427806ee97a1510f514475056fce7",
+    "edition": 8,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #9",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/9.jpg",
+    "dna": "4437eaa2f0c5d2a0d6f5e1a28b225044216ad860",
+    "edition": 9,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #10",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/10.jpg",
+    "dna": "8894598ad4e2c53c243c67f84975e85c477f48ca",
+    "edition": 10,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #11",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/11.jpg",
+    "dna": "a07a9dad7fa467f9841644fe96e551bec34fca68",
+    "edition": 11,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #12",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/12.jpg",
+    "dna": "03c024dce534bda45bd3171bd31ab48efca2c608",
+    "edition": 12,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #13",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/13.jpg",
+    "dna": "c100cb4bb0b08a900640ce891811d76f2625e75d",
+    "edition": 13,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #14",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/14.jpg",
+    "dna": "5f34550a61642e6484671b7b40ca1b6489efcb91",
+    "edition": 14,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #15",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/15.jpg",
+    "dna": "8e665700f35cc96a8e3e3cab9d617cbac220c2a6",
+    "edition": 15,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #16",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/16.jpg",
+    "dna": "59ed9aa1f8dba18e866485aeda070367f75a8c6f",
+    "edition": 16,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #17",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/17.jpg",
+    "dna": "53102f97aa4809a74e155b31ca63c9ccd71e14d0",
+    "edition": 17,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #18",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/18.jpg",
+    "dna": "82c5ae136de47a627f25569d5d128f1de076a85b",
+    "edition": 18,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #19",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/19.jpg",
+    "dna": "6ab68ba097626ffa48e68da2a7605c0141a04611",
+    "edition": 19,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #20",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/20.jpg",
+    "dna": "79889c17e771f3793620dc1c805592d6734b21be",
+    "edition": 20,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #21",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/21.jpg",
+    "dna": "4d724e7f919daecbd7aebb043d5b076469e98110",
+    "edition": 21,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #22",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/22.jpg",
+    "dna": "41e0168ba6de603d5d6f9a24bb7b7c82631cd900",
+    "edition": 22,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #23",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/23.jpg",
+    "dna": "a5b0f61ae3ab735c5f757819c4bd125edf7beddb",
+    "edition": 23,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #24",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/24.jpg",
+    "dna": "9b7d3251dc521db194de65d5742ad21fcb52a708",
+    "edition": 24,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #25",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/25.jpg",
+    "dna": "8c3476cb2808d41a001005d1cf2adae95b493154",
+    "edition": 25,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #26",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/26.jpg",
+    "dna": "8959fc80f682f39e5d178c7c7c7acc968b9d33a3",
+    "edition": 26,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #27",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/27.jpg",
+    "dna": "a21ae2bb43ab2b5f2448ac5d96404e72e9198781",
+    "edition": 27,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #28",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/28.jpg",
+    "dna": "5f7965a7bc5eff0c702e48e48ac5cb7b29213afe",
+    "edition": 28,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #29",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/29.jpg",
+    "dna": "75e313cf2f54b7abcff09a7cab8c557510ab0c80",
+    "edition": 29,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #30",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/30.jpg",
+    "dna": "33f9c0add9a15304d43d16af3804204b34422565",
+    "edition": 30,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #31",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/31.jpg",
+    "dna": "c77d171fc534c6ddb55015200470b19703145122",
+    "edition": 31,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #32",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/32.jpg",
+    "dna": "49586424220f84938c235d83d13f1295d9220f38",
+    "edition": 32,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #33",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/33.jpg",
+    "dna": "c086455e86b6c30a4b4fed3533febfb3e0e9f77e",
+    "edition": 33,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #34",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/34.jpg",
+    "dna": "9a90509d2faeda9fe5f19852653a8033442665a0",
+    "edition": 34,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #35",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/35.jpg",
+    "dna": "d3b85aab84a8810e2d0caf38dd1cdfc5e3ea11d8",
+    "edition": 35,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #36",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/36.jpg",
+    "dna": "82bf6e68fe2a300fb0d04e1d968c25be514928bf",
+    "edition": 36,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #37",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/37.jpg",
+    "dna": "ecd640d97620e4f94f4c0c577bcfe9bf649c98fe",
+    "edition": 37,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #38",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/38.jpg",
+    "dna": "c2709817a623ee9f2205ff09f5e19b9d142ed1c2",
+    "edition": 38,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #39",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/39.jpg",
+    "dna": "92d6f5150aead5820b188bc56464b5e1961b160b",
+    "edition": 39,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #40",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/40.jpg",
+    "dna": "b12e94ae8a5e4166f953ca3100ecc90a3189c1e9",
+    "edition": 40,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #41",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/41.jpg",
+    "dna": "d0c3fc91f45880c4a7ef62b16c2b0ace3df04c2d",
+    "edition": 41,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #42",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/42.jpg",
+    "dna": "d47b0a25b0dda3139a44cbb2d27d8975026f7683",
+    "edition": 42,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #43",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/43.jpg",
+    "dna": "71d3c9c15f4312d593694b91c4c53172db898206",
+    "edition": 43,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #44",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/44.jpg",
+    "dna": "749f101fac6b14a3ad2024d979ad264167b8f104",
+    "edition": 44,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #45",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/45.jpg",
+    "dna": "99ba9bca0c65d4bffd2f47a283c3bebc2a80b575",
+    "edition": 45,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #46",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/46.jpg",
+    "dna": "0697faddf45aa21aa7952b94adcf3ab1c57e15d1",
+    "edition": 46,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #47",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/47.jpg",
+    "dna": "1c2f7190fd6faca594aed3a17b95d78e02adf120",
+    "edition": 47,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #48",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/48.jpg",
+    "dna": "c2fa7789e792960ccc49ec073f9dfd81cc0fb6c3",
+    "edition": 48,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #49",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/49.jpg",
+    "dna": "df9ace4939869cc6409529baa4341d6b0c2a3da8",
+    "edition": 49,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #50",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/50.jpg",
+    "dna": "0ef67cb160fa80af4a2aa174dd3166fa9b5d4e47",
+    "edition": 50,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #51",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/51.jpg",
+    "dna": "1386d3ebaca3cfdbb8a5af4a740b469f8ec4b95b",
+    "edition": 51,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #52",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/52.jpg",
+    "dna": "01f773ac1b5a67929370a6ff1ed5cef02cf13625",
+    "edition": 52,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #53",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/53.jpg",
+    "dna": "687648b530d1a0ffa7d95c079fc40c7a85b6f121",
+    "edition": 53,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #54",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/54.jpg",
+    "dna": "c8b6eaeee461e1ffac9e4fadff5811a08a3b4a43",
+    "edition": 54,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #55",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/55.jpg",
+    "dna": "6df034b693ab91ac7aff321dbf6338550c582d7a",
+    "edition": 55,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #56",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/56.jpg",
+    "dna": "ab40c455bf9dec78b50909d414d873442f5dd4f7",
+    "edition": 56,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #57",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/57.jpg",
+    "dna": "13ef1922f0203036a03e81377eabb7ffa2ec6d7a",
+    "edition": 57,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #58",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/58.jpg",
+    "dna": "cfa27eeba852b5a1cc1b861892aa36c65b2df024",
+    "edition": 58,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #59",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/59.jpg",
+    "dna": "505137f83ff6daeded7b44bf74ef8a8febfd15fd",
+    "edition": 59,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #60",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/60.jpg",
+    "dna": "dc5a0fac249210c035a6dccd4097fe8514a02d91",
+    "edition": 60,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #61",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/61.jpg",
+    "dna": "7ec28193dc58bb1c84659383c8ce5051e5b33404",
+    "edition": 61,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #62",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/62.jpg",
+    "dna": "fb3e56e7b876049a499544c86accb1026a2d4324",
+    "edition": 62,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #63",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/63.jpg",
+    "dna": "97ef0454612392183c73478ecbb4c79c5268c893",
+    "edition": 63,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #64",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/64.jpg",
+    "dna": "60c46c557c974bc61a1838eaaff68fdb0738723e",
+    "edition": 64,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #65",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/65.jpg",
+    "dna": "3ec3f91d2f49ef6b0ab061c4873f812a017c3e85",
+    "edition": 65,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #66",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/66.jpg",
+    "dna": "fd0896637de7eda0bace75712243352e3659b7a8",
+    "edition": 66,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #67",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/67.jpg",
+    "dna": "0ecc8dec487279abbeeb4e21b930cb6a4ae29706",
+    "edition": 67,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #68",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/68.jpg",
+    "dna": "61e48aad1604691baef6491a4481cb0e3e32ec6c",
+    "edition": 68,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #69",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/69.jpg",
+    "dna": "f8fd1aa0edb3e91b97ae74f0b53bc066c2aba172",
+    "edition": 69,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #70",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/70.jpg",
+    "dna": "0fb02020dfb2a0f7437948b51585033ea2ce8b20",
+    "edition": 70,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #71",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/71.jpg",
+    "dna": "f9f3d7dfe1bfa73c0b091af41fad582b27d61519",
+    "edition": 71,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #72",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/72.jpg",
+    "dna": "9bbb5b6b181ea759599177d7b0416de3c1c6dddd",
+    "edition": 72,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #73",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/73.jpg",
+    "dna": "104d0d802018d9820ae30bde4485c3d821b81d90",
+    "edition": 73,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #74",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/74.jpg",
+    "dna": "14d67c382896f655a5e61b4db1864b8d8c72efca",
+    "edition": 74,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #75",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/75.jpg",
+    "dna": "8ca27521450312a4888795948c7a23c1698d34db",
+    "edition": 75,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #76",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/76.jpg",
+    "dna": "594219bfa83c650c4811a0db3ad0c2ec03f5bdf2",
+    "edition": 76,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #77",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/77.jpg",
+    "dna": "a85bae4a3be104d33b46d3e4ce012b3157ae3628",
+    "edition": 77,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #78",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/78.jpg",
+    "dna": "e82cba76e24c22e259fa515429901a890cacfd11",
+    "edition": 78,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #79",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/79.jpg",
+    "dna": "f696ea4c20ab1ee434ba5b8e99a4af0f4f10a4b0",
+    "edition": 79,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #80",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/80.jpg",
+    "dna": "6ad93304c3aa6b52ed9f8271d06a3ad1bee0927c",
+    "edition": 80,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #81",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/81.jpg",
+    "dna": "398316e3cb9e3340757e69b8d574d5913fa48ad8",
+    "edition": 81,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #82",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/82.jpg",
+    "dna": "6294efab370e65d15cb05d2884f7e76ac362b70b",
+    "edition": 82,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #83",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/83.jpg",
+    "dna": "095fde8bc8cb8a17b3ee5ae69893ca36e83cc6c8",
+    "edition": 83,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #84",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/84.jpg",
+    "dna": "8a6ad94804fce796b684193d04af09fb426aada5",
+    "edition": 84,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #85",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/85.jpg",
+    "dna": "48bacba0e26a3e559a4ba53b244c5c4eaab13ec1",
+    "edition": 85,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #86",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/86.jpg",
+    "dna": "6d1fb6a3591baac21fbcc0ae957fd9e5966f9434",
+    "edition": 86,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #87",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/87.jpg",
+    "dna": "dcaa8f9b70ac82e82624c60f795d3826b39bd3c2",
+    "edition": 87,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #88",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/88.jpg",
+    "dna": "767ae7756c9c3faf6a667986c55755a1854d58b6",
+    "edition": 88,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #89",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/89.jpg",
+    "dna": "39ebaeb2eb9a4a3f899e9a70840ad4c753eac961",
+    "edition": 89,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #90",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/90.jpg",
+    "dna": "9e6c543826c1cb08d89ebe513f72d53e71e9b79a",
+    "edition": 90,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #91",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/91.jpg",
+    "dna": "f7f1ba88e7df634870bca2075870af89ff464aae",
+    "edition": 91,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #92",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/92.jpg",
+    "dna": "47514f09ccab9ca79ce5cbe357c57e8d2df29cb7",
+    "edition": 92,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #93",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/93.jpg",
+    "dna": "fd05bf3736acb6a93196fba0ef640b2b1fadb1af",
+    "edition": 93,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #94",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/94.jpg",
+    "dna": "976c3605668fa3a93a45f756652e3cf4dcc7243d",
+    "edition": 94,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #95",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/95.jpg",
+    "dna": "091d1c319c862444e4a361144387ba5d73f6c64d",
+    "edition": 95,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #96",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/96.jpg",
+    "dna": "6ba11766c4ee9ac6e2a6a871e7690a530c491904",
+    "edition": 96,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #97",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/97.jpg",
+    "dna": "7c1dd1dbd3671217f387cc2df3c2aa6c6118b16d",
+    "edition": 97,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #98",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/98.jpg",
+    "dna": "9d10cf88cfb91e447eb0c6737a66abebf55e5b20",
+    "edition": 98,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #99",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/99.jpg",
+    "dna": "69ae56a4608893e41edcf2484be75dbb86b75766",
+    "edition": 99,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ]
+  },
+  {
+    "name": "Ether Wars #100",
+    "description": "Ether Wars Collection",
+    "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/100.jpg",
+    "dna": "8aac49dd74e03342d462bd9052cd5be1aeedc6a9",
+    "edition": 100,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ]
+  }
+]

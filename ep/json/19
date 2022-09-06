@@ -1,0 +1,37 @@
+{
+  "name": "Ether Wars #19",
+  "description": "Ether Wars Collection",
+  "image": "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318/19.jpg",
+  "dna": "6ab68ba097626ffa48e68da2a7605c0141a04611",
+  "edition": 19,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "White"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Large"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "Middle"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Middle"
+    }
+  ]
+}

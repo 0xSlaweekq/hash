@@ -6,12 +6,14 @@ const network = NETWORK.eth;
 
 // General metadata for Ethereum
 const namePrefix = "Ether Wars";
-const description = "Ether Wars Collection";
-const baseUri = "ipfs://QmNVU2wM9Px6gRnDB7F1KhVm1Bb3weUi7sHdoPEtK2Q318";
+const description =
+    "ETHER WARS - strategic NFT P2E Game, built on the Ethereum Blockchain and inspired by the Star wars universe";
+const baseUri = "ipfs://NewUriToReplace";
 
 const solanaMetadata = {
-    symbol: "EYES",
+    symbol: "YC",
     seller_fee_basis_points: 1000, // Define how much % you want from secondary market sales 1000 = 10%
+    external_url: "https://www.youtube.com/c/hashlipsnft",
     creators: [
         {
             address: "7fXNuer5sbZtaTEPhtJ5g5gNtuyRoKkvxdjEjEnPN4mC",
@@ -19,30 +21,151 @@ const solanaMetadata = {
         },
     ],
 };
-
-// If you have selected Solana then the collection starts from 0 automatically
+// if (0 < id && id <= 2500) {
+//     trooper = 2250;
+//     jedi=118;
+//     sith=119;
+//     legend=13;
+// } else if (2500 < id && id <= 6000) {
+//     trooper = 3150;
+//     jedi=166;
+//     sith=167;
+//     legend=17;
+// } else if (6000 < id && id <= 10000) {
+//     trooper = 3600;
+//     jedi=190;
+//     sith=190;
+//     legend=20;
+// }
+const gen1 = 2500;
+const gen2 = 6000;
 const layerConfigurations = [
     {
-        growEditionSizeTo: 30,
+        growEditionSizeTo: 2250,
         layersOrder: [
-            { name: "Background" },
-            { name: "Eyeball" },
-            { name: "Eye color" },
-            { name: "Iris" },
-            { name: "Shine" },
-            { name: "Bottom lid" },
-            { name: "Top lid" },
+            { name: "background trooper" },
+            { name: "body trooper" },
+            { name: "bodycolour trooper" },
+            { name: "headcolour trooper" },
+            { name: "gun trooper" },
+            { name: "type" },
+        ],
+    },
+    {
+        growEditionSizeTo: 2368,
+        layersOrder: [
+            { name: "background sith" },
+            { name: "head sith" },
+            { name: "clothes sith" },
+            { name: "weapon sith" },
+            { name: "type sith" },
+        ],
+    },
+    {
+        growEditionSizeTo: 2487,
+        layersOrder: [
+            { name: "background jedi" },
+            { name: "clothes jedi" },
+            { name: "head jedi" },
+            { name: "weapon jedi" },
+            { name: "type jedi" },
+        ],
+    },
+    {
+        growEditionSizeTo: 2500,
+        layersOrder: [
+            { name: "background legend", options: { bypassDNA: true } },
+            { name: "body legend" },
+            { name: "type legend" },
+        ],
+    },
+    {
+        growEditionSizeTo: 5650,
+        layersOrder: [
+            { name: "background trooper" },
+            { name: "body trooper" },
+            { name: "bodycolour trooper" },
+            { name: "headcolour trooper" },
+            { name: "gun trooper" },
+            { name: "type" },
+        ],
+    },
+    {
+        growEditionSizeTo: 5816,
+        layersOrder: [
+            { name: "background sith" },
+            { name: "head sith" },
+            { name: "clothes sith" },
+            { name: "weapon sith" },
+            { name: "type sith" },
+        ],
+    },
+    {
+        growEditionSizeTo: 5983,
+        layersOrder: [
+            { name: "background jedi" },
+            { name: "clothes jedi" },
+            { name: "head jedi" },
+            { name: "weapon jedi" },
+            { name: "type jedi" },
+        ],
+    },
+    {
+        growEditionSizeTo: 6000,
+        layersOrder: [
+            { name: "background legend", options: { bypassDNA: true } },
+            { name: "body legend" },
+            { name: "type legend" },
+        ],
+    },
+    {
+        growEditionSizeTo: 9600,
+        layersOrder: [
+            { name: "background trooper" },
+            { name: "body trooper" },
+            { name: "bodycolour trooper" },
+            { name: "headcolour trooper" },
+            { name: "gun trooper" },
+            { name: "type" },
+        ],
+    },
+    {
+        growEditionSizeTo: 9790,
+        layersOrder: [
+            { name: "background sith" },
+            { name: "head sith" },
+            { name: "clothes sith" },
+            { name: "weapon sith" },
+            { name: "type sith" },
+        ],
+    },
+    {
+        growEditionSizeTo: 9980,
+        layersOrder: [
+            { name: "background jedi" },
+            { name: "clothes jedi" },
+            { name: "head jedi" },
+            { name: "weapon jedi" },
+            { name: "type jedi" },
+        ],
+    },
+    {
+        growEditionSizeTo: 10000,
+        layersOrder: [
+            { name: "background legend", options: { bypassDNA: true } },
+            { name: "body legend" },
+            { name: "type legend" },
         ],
     },
 ];
 
-const shuffleLayerConfigurations = false;
+const shuffleLayerConfigurations = true;
 
 const debugLogs = false;
 
 const format = {
-    width: 1024,
-    height: 1024,
+    width: 512,
+    height: 512,
     smoothing: false,
 };
 
@@ -67,12 +190,12 @@ const text = {
 };
 
 const pixelFormat = {
-    ratio: 2 / 128,
+    ratio: 1 / 128,
 };
 
 const background = {
     generate: true,
-    brightness: "90%",
+    brightness: "80%",
     static: false,
     default: "#000000",
 };
@@ -87,15 +210,15 @@ const preview = {
     thumbPerRow: 5,
     thumbWidth: 50,
     imageRatio: format.height / format.width,
-    imageName: "preview.jpg",
+    imageName: "preview.png",
 };
 
 const preview_gif = {
-    numberOfImages: 2,
-    order: "MIXED", // ASC, DESC, MIXED
+    numberOfImages: 5,
+    order: "ASC", // ASC, DESC, MIXED
     repeat: 0,
     quality: 100,
-    delay: 300,
+    delay: 500,
     imageName: "preview.gif",
 };
 
@@ -118,4 +241,6 @@ module.exports = {
     solanaMetadata,
     gif,
     preview_gif,
+    gen1,
+    gen2,
 };

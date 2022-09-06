@@ -21,6 +21,8 @@ const {
     network,
     solanaMetadata,
     gif,
+    gen1,
+    gen2,
 } = require(`${basePath}/src/config.js`);
 const canvas = createCanvas(format.width, format.height);
 const ctx = canvas.getContext("2d");
@@ -132,16 +134,20 @@ const drawBackground = () => {
 
 const addMetadata = (_dna, _edition) => {
     let dateTime = Date.now();
-    let tempMetadata = {
-        name: `${namePrefix} #${_edition}`,
-        description: description,
-        image: `${baseUri}/${_edition}.jpg`,
-        // dna: sha1(_dna),
-        edition: _edition,
-        // date: dateTime,
-        ...extraMetadata,
-        attributes: attributesList,
-    };
+    let tempMetadata;
+    if (isDnaUnique(dnaList, _dna)) {
+        tempMetadata = {
+            name: `${namePrefix} #${_edition}`,
+            description: description,
+            image: `${baseUri}/${_edition}.jpg`,
+            dna: sha1(_dna),
+            edition: _edition,
+            // date: dateTime,
+            ...extraMetadata,
+            attributes: attributesList,
+        };
+    }
+
     if (network == NETWORK.sol) {
         tempMetadata = {
             name: tempMetadata.name,
@@ -299,6 +305,7 @@ const createDna = (_layers) => {
             }
         }
     });
+
     return randNum.join(DNA_DELIMITER);
 };
 
@@ -322,17 +329,27 @@ const saveMetaDataSingleFile = (_editionCount) => {
 };
 
 function shuffle(array) {
-    let currentIndex = array.length,
-        randomIndex;
-    while (currentIndex != 0) {
-        randomIndex = Math.floor(Math.random() * currentIndex);
-        currentIndex--;
-        [array[currentIndex], array[randomIndex]] = [
-            array[randomIndex],
-            array[currentIndex],
-        ];
+    const arr1 = [];
+    const arr2 = [];
+    const arr3 = [];
+    for (let i = 0; i < array.length; i++) {
+        if (i < gen1) {
+            arr1.push(array[i]);
+        } else if (gen1 <= i && i < gen2) {
+            arr2.push(array[i]);
+        } else {
+            arr3.push(array[i]);
+        }
     }
-    return array;
+    function random() {
+        return Math.random() - 0.5;
+    }
+    arr1.sort(random);
+    arr2.sort(random);
+    arr3.sort(random);
+
+    let newArray = arr1.concat(arr2, arr3);
+    return newArray;
 }
 
 const startCreating = async () => {
@@ -412,8 +429,9 @@ const startCreating = async () => {
                     addMetadata(newDna, abstractedIndexes[0]);
                     saveMetaDataSingleFile(abstractedIndexes[0]);
                     console.log(
-                        `Created edition: ${abstractedIndexes[0]}`
-                        // , with DNA: ${sha1(newDna)}`
+                        `Created edition: ${
+                            abstractedIndexes[0]
+                        }, with DNA: ${sha1(newDna)}`
                     );
                 });
                 dnaList.add(filterDNAOptions(newDna));
