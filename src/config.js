@@ -5,10 +5,15 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
+// const namePrefix = "Crystal";
+// const description =
+// "Alpha Pass -  limited collection of 300 NFTs. Holders of these passes receive a premium role, which allows them to mint a game character http://ether-wars.com before the public and get an NFT GEN2 airdrop";
+// const description =
+// "Fill the crystal with power and find out which side you are on";
 const namePrefix = "Ether Wars";
 const description =
     "ETHER WARS - strategic NFT P2E Game, built on the Ethereum Blockchain and inspired by the Star wars universe";
-const baseUri = "ipfs://NewUriToReplace";
+const baseUri = "ipfs://QmXPhJHnLAV76kEsKsMqAVPiyH77MSiKKH2SK8kWtf9Vzm";
 
 const solanaMetadata = {
     symbol: "YC",
@@ -44,124 +49,123 @@ const layerConfigurations = [
     //     growEditionSizeTo: 1500,
     //     layersOrder: [{ name: "Back" }, { name: "Crystal" }],
     // },
-
-    {
-        growEditionSizeTo: 2250,
-        layersOrder: [
-            { name: "background trooper" },
-            { name: "body trooper" },
-            { name: "bodycolour trooper" },
-            { name: "headcolour trooper" },
-            { name: "gun trooper" },
-            { name: "type" },
-        ],
-    },
-    {
-        growEditionSizeTo: 2368,
-        layersOrder: [
-            { name: "background sith" },
-            { name: "head sith" },
-            { name: "clothes sith" },
-            { name: "weapon sith" },
-            { name: "type sith" },
-        ],
-    },
-    {
-        growEditionSizeTo: 2487,
-        layersOrder: [
-            { name: "background jedi" },
-            { name: "clothes jedi" },
-            { name: "head jedi" },
-            { name: "weapon jedi" },
-            { name: "type jedi" },
-        ],
-    },
-    {
-        growEditionSizeTo: 2500,
-        layersOrder: [
-            { name: "background legend", options: { bypassDNA: true } },
-            { name: "body legend" },
-            { name: "type legend" },
-        ],
-    },
-    {
-        growEditionSizeTo: 5650,
-        layersOrder: [
-            { name: "background trooper" },
-            { name: "body trooper" },
-            { name: "bodycolour trooper" },
-            { name: "headcolour trooper" },
-            { name: "gun trooper" },
-            { name: "type" },
-        ],
-    },
-    {
-        growEditionSizeTo: 5816,
-        layersOrder: [
-            { name: "background sith" },
-            { name: "head sith" },
-            { name: "clothes sith" },
-            { name: "weapon sith" },
-            { name: "type sith" },
-        ],
-    },
-    {
-        growEditionSizeTo: 5983,
-        layersOrder: [
-            { name: "background jedi" },
-            { name: "clothes jedi" },
-            { name: "head jedi" },
-            { name: "weapon jedi" },
-            { name: "type jedi" },
-        ],
-    },
-    {
-        growEditionSizeTo: 6000,
-        layersOrder: [
-            { name: "background legend", options: { bypassDNA: true } },
-            { name: "body legend" },
-            { name: "type legend" },
-        ],
-    },
-    {
-        growEditionSizeTo: 9600,
-        layersOrder: [
-            { name: "background trooper" },
-            { name: "body trooper" },
-            { name: "bodycolour trooper" },
-            { name: "headcolour trooper" },
-            { name: "gun trooper" },
-            { name: "type" },
-        ],
-    },
-    {
-        growEditionSizeTo: 9790,
-        layersOrder: [
-            { name: "background sith" },
-            { name: "head sith" },
-            { name: "clothes sith" },
-            { name: "weapon sith" },
-            { name: "type sith" },
-        ],
-    },
-    {
-        growEditionSizeTo: 9980,
-        layersOrder: [
-            { name: "background jedi" },
-            { name: "clothes jedi" },
-            { name: "head jedi" },
-            { name: "weapon jedi" },
-            { name: "type jedi" },
-        ],
-    },
-    {
-        growEditionSizeTo: 10000,
-        layersOrder: [
-            { name: "background legend", options: { bypassDNA: true } },
-            { name: "body legend" },
-            { name: "type legend" },
-        ],
-    },
+    // {
+    //     growEditionSizeTo: 2250,
+    //     layersOrder: [
+    //         { name: "background trooper" },
+    //         { name: "body trooper" },
+    //         { name: "bodycolour trooper" },
+    //         { name: "headcolour trooper" },
+    //         { name: "gun trooper" },
+    //         { name: "type" },
+    //     ],
+    // },
+    // {
+    //     growEditionSizeTo: 2368,
+    //     layersOrder: [
+    //         { name: "background sith" },
+    //         { name: "head sith" },
+    //         { name: "clothes sith" },
+    //         { name: "weapon sith" },
+    //         { name: "type sith" },
+    //     ],
+    // },
+    // {
+    //     growEditionSizeTo: 2487,
+    //     layersOrder: [
+    //         { name: "background jedi" },
+    //         { name: "clothes jedi" },
+    //         { name: "head jedi" },
+    //         { name: "weapon jedi" },
+    //         { name: "type jedi" },
+    //     ],
+    // },
+    // {
+    //     growEditionSizeTo: 2500,
+    //     layersOrder: [
+    //         { name: "background legend", options: { bypassDNA: true } },
+    //         { name: "body legend" },
+    //         { name: "type legend" },
+    //     ],
+    // },
+    // {
+    //     growEditionSizeTo: 5650,
+    //     layersOrder: [
+    //         { name: "background trooper" },
+    //         { name: "body trooper" },
+    //         { name: "bodycolour trooper" },
+    //         { name: "headcolour trooper" },
+    //         { name: "gun trooper" },
+    //         { name: "type" },
+    //     ],
+    // },
+    // {
+    //     growEditionSizeTo: 5816,
+    //     layersOrder: [
+    //         { name: "background sith" },
+    //         { name: "head sith" },
+    //         { name: "clothes sith" },
+    //         { name: "weapon sith" },
+    //         { name: "type sith" },
+    //     ],
+    // },
+    // {
+    //     growEditionSizeTo: 5983,
+    //     layersOrder: [
+    //         { name: "background jedi" },
+    //         { name: "clothes jedi" },
+    //         { name: "head jedi" },
+    //         { name: "weapon jedi" },
+    //         { name: "type jedi" },
+    //     ],
+    // },
+    // {
+    //     growEditionSizeTo: 6000,
+    //     layersOrder: [
+    //         { name: "background legend", options: { bypassDNA: true } },
+    //         { name: "body legend" },
+    //         { name: "type legend" },
+    //     ],
+    // },
+    // {
+    //     growEditionSizeTo: 9600,
+    //     layersOrder: [
+    //         { name: "background trooper" },
+    //         { name: "body trooper" },
+    //         { name: "bodycolour trooper" },
+    //         { name: "headcolour trooper" },
+    //         { name: "gun trooper" },
+    //         { name: "type" },
+    //     ],
+    // },
+    // {
+    //     growEditionSizeTo: 9790,
+    //     layersOrder: [
+    //         { name: "background sith" },
+    //         { name: "head sith" },
+    //         { name: "clothes sith" },
+    //         { name: "weapon sith" },
+    //         { name: "type sith" },
+    //     ],
+    // },
+    // {
+    //     growEditionSizeTo: 9980,
+    //     layersOrder: [
+    //         { name: "background jedi" },
+    //         { name: "clothes jedi" },
+    //         { name: "head jedi" },
+    //         { name: "weapon jedi" },
+    //         { name: "type jedi" },
+    //     ],
+    // },
+    // {
+    //     growEditionSizeTo: 10000,
+    //     layersOrder: [
+    //         { name: "background legend", options: { bypassDNA: true } },
+    //         { name: "body legend" },
+    //         { name: "type legend" },
+    //     ],
+    // },
 ];
 
 const shuffleLayerConfigurations = true;

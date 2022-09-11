@@ -101,12 +101,15 @@ const newData = data.map((obj) => {
         }
         if (traitType == "type sith") {
             type += value;
+            traitType = "type";
         }
         if (traitType == "type jedi") {
             type += value;
+            traitType = "type";
         }
         if (traitType == "type legend") {
             type += value;
+            traitType = "type";
         }
     });
     // for (var i = 0; i < obj.attributes.length; i++) {
@@ -115,14 +118,27 @@ const newData = data.map((obj) => {
     //         score += (alpha[i] / obj.attributes.length) * 100;
     //     }
     // }
+
     return {
         name: obj.name,
         // symbol: obj.symbol,
         description: obj.description,
         image: obj.image,
         edition: obj.edition,
-        type: type,
-        attributes: obj.attributes,
+        // dna: obj.dna,
+        // type: type,
+        // attributes: obj.attributes,
+        attributes: [
+            {
+                trait_type: "background",
+                value: "stars",
+            },
+            {
+                trait_type: "rarity",
+                value: "pass",
+            },
+        ],
+
         // score: n4.format(score),
         // attributes: obj.attributes.map((x) => {
         //     return {

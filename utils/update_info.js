@@ -14,9 +14,10 @@ const {
 let rawdata = fs.readFileSync(`${basePath}/build/json/_metadata.json`);
 let data = JSON.parse(rawdata);
 let numNew;
-data.forEach((item) => {
-    numNew = Number(item.edition) + 3333;
 
+data.forEach((item) => {
+    numNew = Number(item.edition);
+    let ed = [];
     if (network == NETWORK.sol) {
         item.name = `${namePrefix} #${item.edition}`;
         item.description = description;
@@ -24,13 +25,13 @@ data.forEach((item) => {
         item.creators = solanaMetadata.creators;
         item.seller_fee_basis_points = solanaMetadata.seller_fee_basis_points;
     } else {
-        item.name = `${namePrefix} #${item.edition}`;
+        item.name = `${namePrefix} #${numNew}`;
         item.description = description;
-        item.image = `${baseUri}/1.jpg`;
-        item.edition = `${item.edition}`;
+        item.image = `${baseUri}/${numNew}.jpg`;
+        item.edition = numNew;
     }
     fs.writeFileSync(
-        `${basePath}/build/json/${item.edition}`,
+        `${basePath}/build/json/${numNew}`,
         JSON.stringify(item, null, 2)
     );
 });
