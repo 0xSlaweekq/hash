@@ -4,6 +4,7 @@ buildAP300
 buildCR1500
 buildCR4500
 buildEW10k
+babyx
 .env
 coverage
 coverage.json
