@@ -22,6 +22,7 @@
         "update_info": "node utils/update_info.js",
         "preview_gif": "node utils/preview_gif.js",
         "rarityMy": "node utils/rarityMy.js",
+        "includes": "node utils/includes.js",
         "generate_metadata": "node utils/generate_metadata.js"
     },
     "author": "Daniel Eugene Botha (HashLips)",
