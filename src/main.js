@@ -99,7 +99,7 @@ const layersSetup = layersOrder => {
 };
 
 const saveImage = _editionCount => {
-    fs.writeFileSync(`${buildDir}/images/${_editionCount}.gif`, canvas.toBuffer('image/jpeg'));
+    fs.writeFileSync(`${buildDir}/images/${_editionCount}.jpg`, canvas.toBuffer('image/jpeg'));
 };
 
 const genColor = () => {
@@ -120,7 +120,7 @@ const addMetadata = (_dna, _edition) => {
         tempMetadata = {
             name: `${namePrefix} #${_edition}`,
             description: description,
-            image: `${baseUri}/${_edition}.gif`,
+            image: `${baseUri}/${_edition}.jpg`,
             dna: sha1(_dna),
             edition: _edition,
             // date: dateTime,

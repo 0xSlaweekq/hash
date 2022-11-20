@@ -1,10 +1,10 @@
 const basePath = process.cwd();
-const fs = require("fs");
+const fs = require('fs');
 const layersDir = `${basePath}/layers`;
 
 const { layerConfigurations } = require(`${basePath}/src/config.js`);
 
-const { getElements } = require("../src/main.js");
+const { getElements } = require('../src/main.js');
 
 // read json data
 let data = JSON.parse(fs.readFileSync(`${basePath}/build/json/_metadata.json`));
@@ -84,32 +84,32 @@ let rarityData = [];
 //     maximumFractionDigits: 0,
 // });
 
-const newData = data.map((obj) => {
+const newData = data.map(obj => {
     // let alpha = [];
     let atrib = [];
-    let type = "";
-    obj.attributes.map((x) => {
+    let type = '';
+    obj.attributes.map(x => {
         for (var i = 0; i < obj.attributes.length; i++) {
             atrib[i] = obj.attributes[i];
         }
     });
-    obj.attributes.forEach((obj) => {
+    obj.attributes.forEach(obj => {
         let traitType = obj.trait_type;
         let value = obj.value;
-        if (traitType == "type") {
+        if (traitType == 'type') {
             type += value;
         }
-        if (traitType == "type sith") {
+        if (traitType == 'type sith') {
             type += value;
-            traitType = "type";
+            traitType = 'type';
         }
-        if (traitType == "type jedi") {
+        if (traitType == 'type jedi') {
             type += value;
-            traitType = "type";
+            traitType = 'type';
         }
-        if (traitType == "type legend") {
+        if (traitType == 'type legend') {
             type += value;
-            traitType = "type";
+            traitType = 'type';
         }
     });
     // for (var i = 0; i < obj.attributes.length; i++) {
@@ -130,14 +130,14 @@ const newData = data.map((obj) => {
         // attributes: obj.attributes,
         attributes: [
             {
-                trait_type: "background",
-                value: "stars",
+                trait_type: 'background',
+                value: 'stars'
             },
             {
-                trait_type: "rarity",
-                value: "pass",
-            },
-        ],
+                trait_type: 'rarity',
+                value: 'pass'
+            }
+        ]
 
         // score: n4.format(score),
         // attributes: obj.attributes.map((x) => {
@@ -156,7 +156,4 @@ const newData = data.map((obj) => {
     };
 });
 
-fs.writeFileSync(
-    `${basePath}/build/json/_metadata.json`,
-    JSON.stringify(newData, null, 2)
-);
+fs.writeFileSync(`${basePath}/build/json/_metadata.json`, JSON.stringify(newData, null, 2));

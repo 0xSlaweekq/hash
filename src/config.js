@@ -21,15 +21,15 @@ const solanaMetadata = {
         }
     ]
 };
-const gen1 = 500;
-const gen2 = 500;
+const gen1 = 630;
+const gen2 = 1320;
 const layerConfigurations = [
     // {
     //     growEditionSizeTo: 1500,
     //     layersOrder: [{ name: "Back" }, { name: "Crystal" }],
     // },
     {
-        growEditionSizeTo: 5, //5
+        growEditionSizeTo: 30, //30
         layersOrder: [
             { name: 'background trooper' },
             { name: 'body trooper' },
@@ -40,27 +40,29 @@ const layerConfigurations = [
         ]
     },
     {
-        growEditionSizeTo: 25, //20
+        growEditionSizeTo: 190, //160
         layersOrder: [
-            { name: 'background sith' },
-            { name: 'head sith' },
-            { name: 'clothes sith' },
-            { name: 'weapon sith' },
+            { name: 'background trooper' },
+            { name: 'body trooper' },
+            { name: 'bodycolour trooper' },
+            { name: 'headcolour trooper' },
+            { name: 'gun trooper' },
             { name: 'Silver' }
         ]
     },
     {
-        growEditionSizeTo: 165, //140
+        growEditionSizeTo: 630, //440
         layersOrder: [
-            { name: 'background jedi' },
-            { name: 'clothes jedi' },
-            { name: 'head jedi' },
-            { name: 'weapon jedi' },
+            { name: 'background trooper' },
+            { name: 'body trooper' },
+            { name: 'bodycolour trooper' },
+            { name: 'headcolour trooper' },
+            { name: 'gun trooper' },
             { name: 'Bronze' }
         ]
     },
     {
-        growEditionSizeTo: 170, //5
+        growEditionSizeTo: 680, //50
         layersOrder: [
             { name: 'background trooper' },
             { name: 'body trooper' },
@@ -71,27 +73,29 @@ const layerConfigurations = [
         ]
     },
     {
-        growEditionSizeTo: 185, //15
+        growEditionSizeTo: 850, //170
         layersOrder: [
-            { name: 'background sith' },
-            { name: 'head sith' },
-            { name: 'clothes sith' },
-            { name: 'weapon sith' },
+            { name: 'background trooper' },
+            { name: 'body trooper' },
+            { name: 'bodycolour trooper' },
+            { name: 'headcolour trooper' },
+            { name: 'gun trooper' },
             { name: 'Silver' }
         ]
     },
     {
-        growEditionSizeTo: 325, //140
+        growEditionSizeTo: 1320, //470
         layersOrder: [
-            { name: 'background jedi' },
-            { name: 'clothes jedi' },
-            { name: 'head jedi' },
-            { name: 'weapon jedi' },
+            { name: 'background trooper' },
+            { name: 'body trooper' },
+            { name: 'bodycolour trooper' },
+            { name: 'headcolour trooper' },
+            { name: 'gun trooper' },
             { name: 'Bronze' }
         ]
     },
     {
-        growEditionSizeTo: 330, //5
+        growEditionSizeTo: 1360, //40
         layersOrder: [
             { name: 'background trooper' },
             { name: 'body trooper' },
@@ -102,22 +106,24 @@ const layerConfigurations = [
         ]
     },
     {
-        growEditionSizeTo: 345, //15
+        growEditionSizeTo: 1530, //170
         layersOrder: [
-            { name: 'background sith' },
-            { name: 'head sith' },
-            { name: 'clothes sith' },
-            { name: 'weapon sith' },
+            { name: 'background trooper' },
+            { name: 'body trooper' },
+            { name: 'bodycolour trooper' },
+            { name: 'headcolour trooper' },
+            { name: 'gun trooper' },
             { name: 'Silver' }
         ]
     },
     {
-        growEditionSizeTo: 500, //155
+        growEditionSizeTo: 2000, //470
         layersOrder: [
-            { name: 'background jedi' },
-            { name: 'clothes jedi' },
-            { name: 'head jedi' },
-            { name: 'weapon jedi' },
+            { name: 'background trooper' },
+            { name: 'body trooper' },
+            { name: 'bodycolour trooper' },
+            { name: 'headcolour trooper' },
+            { name: 'gun trooper' },
             { name: 'Bronze' }
         ]
     }
@@ -214,8 +220,8 @@ const shuffleLayerConfigurations = true;
 const debugLogs = false;
 
 const format = {
-    width: 2048,
-    height: 2048,
+    width: 256,
+    height: 256,
     smoothing: false
 };
 

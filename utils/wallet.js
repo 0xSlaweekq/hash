@@ -2,7 +2,7 @@
 const fs = require('fs');
 
 // let data = fs.readFileSync(`${basePath}/build/json/weed.json`);
-const data = `0x14b422FA2b48983C39eE4Bb2d98ed05285899E28
+const wal = `0x14b422FA2b48983C39eE4Bb2d98ed05285899E28
 0x27763AAdA30F92805BE463C0AE80ff31B6caa4Ec
 0x8dA6b404D2C2Cd951467d02c22CDc1c9A8020D2b
 0x8C0130E0a06Df8bF4dE89e9aE5f311B4F93990C2
@@ -75,20 +75,29 @@ const data = `0x14b422FA2b48983C39eE4Bb2d98ed05285899E28
 0xd976702887310ab5B4Fe4610f0Be3d8f5b9eD5EB
 0xf4779a069a1D70e03e9757c96513cbc36a77a738`;
 
+const ids = [
+    248, 205, 81, 519, 359, 355, 361, 321, 327, 395, 354, 330, 369, 397, 199, 1, 351, 349, 379, 42, 57, 48, 356, 182,
+    398, 383, 158, 329, 322, 348, 972, 777, 719, 720, 1009, 727, 726, 738, 760, 788, 745, 746, 740, 842, 834, 895, 754,
+    827, 789, 724, 753, 644, 686, 737, 968, 635, 651, 963, 975, 891, 721, 958, 631, 647, 973, 918, 954, 873, 643, 862,
+    676, 717, 1107, 1278, 1030, 1144, 984, 942, 946, 896, 1942, 1342, 1413, 1563, 1588, 1550, 1593, 1460, 1445, 1518,
+    1398, 1324, 1596, 1566, 1424, 1427, 1519, 1423, 1655, 1645, 1632, 1441, 1339, 1569, 1570, 1548, 1891, 1862, 1604,
+    1435, 1392, 1582, 1859, 1857, 1849, 1731, 1860, 1963, 1702, 1678
+];
 function splitString(stringToSplit, separator) {
-  var arrayOfStrings = stringToSplit.split(separator);
-  console.log('Разделитель: "' + separator + '"');
-  console.log('Массив содержит ' + arrayOfStrings.length + ' элементов: ' + arrayOfStrings.join(`","`));
-  // console.log('Массив содержит ' + arrayOfStrings.length + ' элементов: ' + arrayOfStrings.join(`,`));
+    var arrayOfStrings = stringToSplit.split(separator);
+    console.log('Разделитель: "' + separator + '"');
+    // console.log('Массив содержит ' + arrayOfStrings.length + ' элементов: ' + arrayOfStrings.join(`","`));
+    console.log('Массив содержит ' + arrayOfStrings.length + ' элементов: ' + arrayOfStrings.join(`,`));
 }
 var ox = '\n';
 var space = `"`;
-var comma = ',';
+var comma = ', ';
 // var radData = "My NaMe Is MuD";
 // radData.toLowerCase();
 // radData.toUpperCase();
 
-splitString(data, ox);
+// splitString(wal, ox);
+splitString(ids.toString(), comma);
 
 // fs.writeFileSync(
 //     `${basePath}/build/json/weed.json`,
