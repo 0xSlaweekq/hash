@@ -21,198 +21,194 @@ const solanaMetadata = {
         }
     ]
 };
-const gen1 = 630;
-const gen2 = 1320;
+const gen1 = 600;
+const gen2 = 1000;
 const layerConfigurations = [
     // {
-    //     growEditionSizeTo: 1500,
-    //     layersOrder: [{ name: "Back" }, { name: "Crystal" }],
+    //     growEditionSizeTo: 30, //30
+    //     layersOrder: [
+    //         { name: 'background trooper' },
+    //         { name: 'body trooper' },
+    //         { name: 'bodycolour trooper' },
+    //         { name: 'headcolour trooper' },
+    //         { name: 'gun trooper' },
+    //         { name: 'Gold' }
+    //     ]
     // },
+    // {
+    //     growEditionSizeTo: 190, //160
+    //     layersOrder: [
+    //         { name: 'background trooper' },
+    //         { name: 'body trooper' },
+    //         { name: 'bodycolour trooper' },
+    //         { name: 'headcolour trooper' },
+    //         { name: 'gun trooper' },
+    //         { name: 'Silver' }
+    //     ]
+    // },
+    // {
+    //     growEditionSizeTo: 630, //440
+    //     layersOrder: [
+    //         { name: 'background trooper' },
+    //         { name: 'body trooper' },
+    //         { name: 'bodycolour trooper' },
+    //         { name: 'headcolour trooper' },
+    //         { name: 'gun trooper' },
+    //         { name: 'Bronze' }
+    //     ]
+    // },
+    // {
+    //     growEditionSizeTo: 680, //50
+    //     layersOrder: [
+    //         { name: 'background trooper' },
+    //         { name: 'body trooper' },
+    //         { name: 'bodycolour trooper' },
+    //         { name: 'headcolour trooper' },
+    //         { name: 'gun trooper' },
+    //         { name: 'Gold' }
+    //     ]
+    // },
+    // {
+    //     growEditionSizeTo: 850, //170
+    //     layersOrder: [
+    //         { name: 'background trooper' },
+    //         { name: 'body trooper' },
+    //         { name: 'bodycolour trooper' },
+    //         { name: 'headcolour trooper' },
+    //         { name: 'gun trooper' },
+    //         { name: 'Silver' }
+    //     ]
+    // },
+    // {
+    //     growEditionSizeTo: 1320, //470
+    //     layersOrder: [
+    //         { name: 'background trooper' },
+    //         { name: 'body trooper' },
+    //         { name: 'bodycolour trooper' },
+    //         { name: 'headcolour trooper' },
+    //         { name: 'gun trooper' },
+    //         { name: 'Bronze' }
+    //     ]
+    // },
+    // {
+    //     growEditionSizeTo: 1360, //40
+    //     layersOrder: [
+    //         { name: 'background trooper' },
+    //         { name: 'body trooper' },
+    //         { name: 'bodycolour trooper' },
+    //         { name: 'headcolour trooper' },
+    //         { name: 'gun trooper' },
+    //         { name: 'Gold' }
+    //     ]
+    // },
+    // {
+    //     growEditionSizeTo: 1530, //170
+    //     layersOrder: [
+    //         { name: 'background trooper' },
+    //         { name: 'body trooper' },
+    //         { name: 'bodycolour trooper' },
+    //         { name: 'headcolour trooper' },
+    //         { name: 'gun trooper' },
+    //         { name: 'Silver' }
+    //     ]
+    // },
+    // {
+    //     growEditionSizeTo: 2000, //470
+    //     layersOrder: [
+    //         { name: 'background trooper' },
+    //         { name: 'body trooper' },
+    //         { name: 'bodycolour trooper' },
+    //         { name: 'headcolour trooper' },
+    //         { name: 'gun trooper' },
+    //         { name: 'Bronze' }
+    //     ]
+    // }
     {
-        growEditionSizeTo: 30, //30
+        growEditionSizeTo: 2500,
         layersOrder: [
-            { name: 'background trooper' },
-            { name: 'body trooper' },
-            { name: 'bodycolour trooper' },
-            { name: 'headcolour trooper' },
-            { name: 'gun trooper' },
-            { name: 'Gold' }
+            { name: 'background legend', options: { bypassDNA: true } },
+            { name: 'body legend' },
+            { name: 'type legend' }
         ]
     },
     {
-        growEditionSizeTo: 190, //160
+        growEditionSizeTo: 5650,
         layersOrder: [
             { name: 'background trooper' },
             { name: 'body trooper' },
             { name: 'bodycolour trooper' },
             { name: 'headcolour trooper' },
             { name: 'gun trooper' },
-            { name: 'Silver' }
+            { name: 'type' }
         ]
     },
     {
-        growEditionSizeTo: 630, //440
+        growEditionSizeTo: 5816,
         layersOrder: [
-            { name: 'background trooper' },
-            { name: 'body trooper' },
-            { name: 'bodycolour trooper' },
-            { name: 'headcolour trooper' },
-            { name: 'gun trooper' },
-            { name: 'Bronze' }
+            { name: 'background sith' },
+            { name: 'head sith' },
+            { name: 'clothes sith' },
+            { name: 'weapon sith' },
+            { name: 'type sith' }
         ]
     },
     {
-        growEditionSizeTo: 680, //50
+        growEditionSizeTo: 5983,
         layersOrder: [
-            { name: 'background trooper' },
-            { name: 'body trooper' },
-            { name: 'bodycolour trooper' },
-            { name: 'headcolour trooper' },
-            { name: 'gun trooper' },
-            { name: 'Gold' }
+            { name: 'background jedi' },
+            { name: 'clothes jedi' },
+            { name: 'head jedi' },
+            { name: 'weapon jedi' },
+            { name: 'type jedi' }
         ]
     },
     {
-        growEditionSizeTo: 850, //170
+        growEditionSizeTo: 6000,
         layersOrder: [
-            { name: 'background trooper' },
-            { name: 'body trooper' },
-            { name: 'bodycolour trooper' },
-            { name: 'headcolour trooper' },
-            { name: 'gun trooper' },
-            { name: 'Silver' }
+            { name: 'background legend', options: { bypassDNA: true } },
+            { name: 'body legend' },
+            { name: 'type legend' }
         ]
     },
     {
-        growEditionSizeTo: 1320, //470
+        growEditionSizeTo: 9600,
         layersOrder: [
             { name: 'background trooper' },
             { name: 'body trooper' },
             { name: 'bodycolour trooper' },
             { name: 'headcolour trooper' },
             { name: 'gun trooper' },
-            { name: 'Bronze' }
+            { name: 'type' }
         ]
     },
     {
-        growEditionSizeTo: 1360, //40
+        growEditionSizeTo: 9790,
         layersOrder: [
-            { name: 'background trooper' },
-            { name: 'body trooper' },
-            { name: 'bodycolour trooper' },
-            { name: 'headcolour trooper' },
-            { name: 'gun trooper' },
-            { name: 'Gold' }
+            { name: 'background sith' },
+            { name: 'head sith' },
+            { name: 'clothes sith' },
+            { name: 'weapon sith' },
+            { name: 'type sith' }
         ]
     },
     {
-        growEditionSizeTo: 1530, //170
+        growEditionSizeTo: 9980,
         layersOrder: [
-            { name: 'background trooper' },
-            { name: 'body trooper' },
-            { name: 'bodycolour trooper' },
-            { name: 'headcolour trooper' },
-            { name: 'gun trooper' },
-            { name: 'Silver' }
+            { name: 'background jedi' },
+            { name: 'clothes jedi' },
+            { name: 'head jedi' },
+            { name: 'weapon jedi' },
+            { name: 'type jedi' }
         ]
     },
     {
-        growEditionSizeTo: 2000, //470
+        growEditionSizeTo: 10000,
         layersOrder: [
-            { name: 'background trooper' },
-            { name: 'body trooper' },
-            { name: 'bodycolour trooper' },
-            { name: 'headcolour trooper' },
-            { name: 'gun trooper' },
-            { name: 'Bronze' }
+            { name: 'background legend', options: { bypassDNA: true } },
+            { name: 'body legend' },
+            { name: 'type legend' }
         ]
     }
-    // {
-    //     growEditionSizeTo: 2500,
-    //     layersOrder: [
-    //         { name: "background legend", options: { bypassDNA: true } },
-    //         { name: "body legend" },
-    //         { name: "type legend" },
-    //     ],
-    // },
-    // {
-    //     growEditionSizeTo: 5650,
-    //     layersOrder: [
-    //         { name: "background trooper" },
-    //         { name: "body trooper" },
-    //         { name: "bodycolour trooper" },
-    //         { name: "headcolour trooper" },
-    //         { name: "gun trooper" },
-    //         { name: "type" },
-    //     ],
-    // },
-    // {
-    //     growEditionSizeTo: 5816,
-    //     layersOrder: [
-    //         { name: "background sith" },
-    //         { name: "head sith" },
-    //         { name: "clothes sith" },
-    //         { name: "weapon sith" },
-    //         { name: "type sith" },
-    //     ],
-    // },
-    // {
-    //     growEditionSizeTo: 5983,
-    //     layersOrder: [
-    //         { name: "background jedi" },
-    //         { name: "clothes jedi" },
-    //         { name: "head jedi" },
-    //         { name: "weapon jedi" },
-    //         { name: "type jedi" },
-    //     ],
-    // },
-    // {
-    //     growEditionSizeTo: 6000,
-    //     layersOrder: [
-    //         { name: "background legend", options: { bypassDNA: true } },
-    //         { name: "body legend" },
-    //         { name: "type legend" },
-    //     ],
-    // },
-    // {
-    //     growEditionSizeTo: 9600,
-    //     layersOrder: [
-    //         { name: "background trooper" },
-    //         { name: "body trooper" },
-    //         { name: "bodycolour trooper" },
-    //         { name: "headcolour trooper" },
-    //         { name: "gun trooper" },
-    //         { name: "type" },
-    //     ],
-    // },
-    // {
-    //     growEditionSizeTo: 9790,
-    //     layersOrder: [
-    //         { name: "background sith" },
-    //         { name: "head sith" },
-    //         { name: "clothes sith" },
-    //         { name: "weapon sith" },
-    //         { name: "type sith" },
-    //     ],
-    // },
-    // {
-    //     growEditionSizeTo: 9980,
-    //     layersOrder: [
-    //         { name: "background jedi" },
-    //         { name: "clothes jedi" },
-    //         { name: "head jedi" },
-    //         { name: "weapon jedi" },
-    //         { name: "type jedi" },
-    //     ],
-    // },
-    // {
-    //     growEditionSizeTo: 10000,
-    //     layersOrder: [
-    //         { name: "background legend", options: { bypassDNA: true } },
-    //         { name: "body legend" },
-    //         { name: "type legend" },
-    //     ],
-    // },
 ];
 
 const shuffleLayerConfigurations = true;
