@@ -24,39 +24,39 @@ const solanaMetadata = {
 const gen1 = 600;
 const gen2 = 1000;
 const layerConfigurations = [
-    // {
-    //     growEditionSizeTo: 30, //30
-    //     layersOrder: [
-    //         { name: 'background trooper' },
-    //         { name: 'body trooper' },
-    //         { name: 'bodycolour trooper' },
-    //         { name: 'headcolour trooper' },
-    //         { name: 'gun trooper' },
-    //         { name: 'Gold' }
-    //     ]
-    // },
-    // {
-    //     growEditionSizeTo: 190, //160
-    //     layersOrder: [
-    //         { name: 'background trooper' },
-    //         { name: 'body trooper' },
-    //         { name: 'bodycolour trooper' },
-    //         { name: 'headcolour trooper' },
-    //         { name: 'gun trooper' },
-    //         { name: 'Silver' }
-    //     ]
-    // },
-    // {
-    //     growEditionSizeTo: 630, //440
-    //     layersOrder: [
-    //         { name: 'background trooper' },
-    //         { name: 'body trooper' },
-    //         { name: 'bodycolour trooper' },
-    //         { name: 'headcolour trooper' },
-    //         { name: 'gun trooper' },
-    //         { name: 'Bronze' }
-    //     ]
-    // },
+    {
+        growEditionSizeTo: 30, //30
+        layersOrder: [
+            { name: 'background trooper' },
+            { name: 'body trooper' },
+            { name: 'bodycolour trooper' },
+            { name: 'headcolour trooper' },
+            { name: 'gun trooper' },
+            { name: 'Gold' }
+        ]
+    },
+    {
+        growEditionSizeTo: 190, //160
+        layersOrder: [
+            { name: 'background trooper' },
+            { name: 'body trooper' },
+            { name: 'bodycolour trooper' },
+            { name: 'headcolour trooper' },
+            { name: 'gun trooper' },
+            { name: 'Silver' }
+        ]
+    },
+    {
+        growEditionSizeTo: 630, //440
+        layersOrder: [
+            { name: 'background trooper' },
+            { name: 'body trooper' },
+            { name: 'bodycolour trooper' },
+            { name: 'headcolour trooper' },
+            { name: 'gun trooper' },
+            { name: 'Bronze' }
+        ]
+    },
     // {
     //     growEditionSizeTo: 680, //50
     //     layersOrder: [

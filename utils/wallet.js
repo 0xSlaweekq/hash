@@ -86,8 +86,8 @@ const ids = [
 function splitString(stringToSplit, separator) {
     var arrayOfStrings = stringToSplit.split(separator);
     console.log('Разделитель: "' + separator + '"');
-    // console.log('Массив содержит ' + arrayOfStrings.length + ' элементов: ' + arrayOfStrings.join(`","`));
-    console.log('Массив содержит ' + arrayOfStrings.length + ' элементов: ' + arrayOfStrings.join(`,`));
+    console.log('Массив содержит ' + arrayOfStrings.length + ' элементов: ' + arrayOfStrings.join(`","`));
+    // console.log('Массив содержит ' + arrayOfStrings.length + ' элементов: ' + arrayOfStrings.join(`,`));
 }
 var ox = '\n';
 var space = `"`;
@@ -96,8 +96,8 @@ var comma = ', ';
 // radData.toLowerCase();
 // radData.toUpperCase();
 
-// splitString(wal, ox);
-splitString(ids.toString(), comma);
+splitString(wal, ox);
+// splitString(ids.toString(), comma);
 
 // fs.writeFileSync(
 //     `${basePath}/build/json/weed.json`,
